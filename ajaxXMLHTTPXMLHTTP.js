@@ -1,7 +1,6 @@
 
 //Nome Alessandro Gomes Cunha
 //Ano 2007 
-//Mi Montreal 
 //Funções Ajax
 
 var Erro = null;
